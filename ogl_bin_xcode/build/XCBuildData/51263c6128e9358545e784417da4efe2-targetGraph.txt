@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+ZERO_CHECK in life
+GLEW_1130 in life, depends on:
+ZERO_CHECK in life (explicit)
+glfw in life, depends on:
+ZERO_CHECK in life (explicit)
+ANTTWEAKBAR_116_OGLCORE_GLFW in life, depends on:
+ZERO_CHECK in life (explicit)
+tutorial02_red_triangle in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+ANTTWEAKBAR_116_OGLCORE_GLFW in life (implicit dependency via file 'libANTTWEAKBAR_116_OGLCORE_GLFW.a' in build phase 'Link Binary'

@@ -1,0 +1,79 @@
+Target dependency graph (28 targets)
+glfw in GLFW
+clipboard in GLFW, depends on:
+glfw in GLFW (explicit)
+docs in GLFW
+title in GLFW, depends on:
+glfw in GLFW (explicit)
+threads in GLFW, depends on:
+glfw in GLFW (explicit)
+tearing in GLFW, depends on:
+glfw in GLFW (explicit)
+empty in GLFW, depends on:
+glfw in GLFW (explicit)
+glfwinfo in GLFW, depends on:
+glfw in GLFW (explicit)
+cursor in GLFW, depends on:
+glfw in GLFW (explicit)
+monitors in GLFW, depends on:
+glfw in GLFW (explicit)
+reopen in GLFW, depends on:
+glfw in GLFW (explicit)
+joysticks in GLFW, depends on:
+glfw in GLFW (explicit)
+events in GLFW, depends on:
+glfw in GLFW (explicit)
+iconify in GLFW, depends on:
+glfw in GLFW (explicit)
+gamma in GLFW, depends on:
+glfw in GLFW (explicit)
+sharing in GLFW, depends on:
+glfw in GLFW (explicit)
+msaa in GLFW, depends on:
+glfw in GLFW (explicit)
+wave in GLFW, depends on:
+glfw in GLFW (explicit)
+splitview in GLFW, depends on:
+glfw in GLFW (explicit)
+simple in GLFW, depends on:
+glfw in GLFW (explicit)
+particles in GLFW, depends on:
+glfw in GLFW (explicit)
+heightmap in GLFW, depends on:
+glfw in GLFW (explicit)
+gears in GLFW, depends on:
+glfw in GLFW (explicit)
+boing in GLFW, depends on:
+glfw in GLFW (explicit)
+windows in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW
+ALL_BUILD in GLFW, depends on:
+clipboard in GLFW (explicit)
+docs in GLFW (explicit)
+title in GLFW (explicit)
+threads in GLFW (explicit)
+tearing in GLFW (explicit)
+empty in GLFW (explicit)
+glfwinfo in GLFW (explicit)
+cursor in GLFW (explicit)
+monitors in GLFW (explicit)
+reopen in GLFW (explicit)
+joysticks in GLFW (explicit)
+events in GLFW (explicit)
+iconify in GLFW (explicit)
+gamma in GLFW (explicit)
+sharing in GLFW (explicit)
+msaa in GLFW (explicit)
+glfw in GLFW (explicit)
+wave in GLFW (explicit)
+splitview in GLFW (explicit)
+simple in GLFW (explicit)
+particles in GLFW (explicit)
+heightmap in GLFW (explicit)
+gears in GLFW (explicit)
+boing in GLFW (explicit)
+windows in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+install in GLFW, depends on:
+ALL_BUILD in GLFW (explicit)

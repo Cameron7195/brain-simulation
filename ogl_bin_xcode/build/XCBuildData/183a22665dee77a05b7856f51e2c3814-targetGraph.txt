@@ -1,0 +1,269 @@
+Target dependency graph (63 targets)
+ZERO_CHECK in life
+GLEW_1130 in life, depends on:
+ZERO_CHECK in life (explicit)
+glfw in life, depends on:
+ZERO_CHECK in life (explicit)
+tutorial08_basic_shading in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+ANTTWEAKBAR_116_OGLCORE_GLFW in life, depends on:
+ZERO_CHECK in life (explicit)
+BulletCollision in life, depends on:
+ZERO_CHECK in life (explicit)
+BulletDynamics in life, depends on:
+ZERO_CHECK in life (explicit)
+LinearMath in life, depends on:
+ZERO_CHECK in life (explicit)
+misc05_picking_BulletPhysics in life, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in life (explicit)
+GLEW_1130 in life (explicit)
+BulletCollision in life (explicit)
+BulletDynamics in life (explicit)
+LinearMath in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial10_transparency in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial18_particles in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial18_billboards in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial01_first_window in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial02_red_triangle in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+misc05_picking_slow_easy in life, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in life (explicit)
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial09_vbo_indexing in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial09_several_objects in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial13_normal_mapping in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial11_2d_fonts in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial04_colored_cube in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial05_textured_cube in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial07_model_loading in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+playground in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial06_keyboard_and_mouse in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+misc05_picking_custom in life, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in life (explicit)
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial16_shadowmaps_simple in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial03_matrices in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial15_lightmaps in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial16_shadowmaps in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial14_render_to_texture in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+zlib in life, depends on:
+ZERO_CHECK in life (explicit)
+assimp in life, depends on:
+zlib in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial09_AssImp in life, depends on:
+GLEW_1130 in life (explicit)
+zlib in life (explicit)
+assimp in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial12_extensions in life, depends on:
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tutorial17_rotations in life, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in life (explicit)
+GLEW_1130 in life (explicit)
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+clipboard in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+docs in life, depends on:
+ZERO_CHECK in life (explicit)
+BulletSoftBody in life, depends on:
+ZERO_CHECK in life (explicit)
+title in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+threads in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+tearing in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+empty in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+glfwinfo in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+cursor in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+monitors in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+reopen in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+joysticks in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+events in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+iconify in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+gamma in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+sharing in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+msaa in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+wave in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+splitview in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+simple in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+particles in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+heightmap in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+gears in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+boing in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+windows in life, depends on:
+glfw in life (explicit)
+ZERO_CHECK in life (explicit)
+ALL_BUILD in life, depends on:
+tutorial08_basic_shading in life (explicit)
+misc05_picking_BulletPhysics in life (explicit)
+tutorial10_transparency in life (explicit)
+ANTTWEAKBAR_116_OGLCORE_GLFW in life (explicit)
+GLEW_1130 in life (explicit)
+tutorial18_particles in life (explicit)
+tutorial18_billboards in life (explicit)
+tutorial01_first_window in life (explicit)
+tutorial02_red_triangle in life (explicit)
+misc05_picking_slow_easy in life (explicit)
+tutorial09_vbo_indexing in life (explicit)
+tutorial09_several_objects in life (explicit)
+tutorial13_normal_mapping in life (explicit)
+tutorial11_2d_fonts in life (explicit)
+tutorial04_colored_cube in life (explicit)
+tutorial05_textured_cube in life (explicit)
+tutorial07_model_loading in life (explicit)
+playground in life (explicit)
+tutorial06_keyboard_and_mouse in life (explicit)
+misc05_picking_custom in life (explicit)
+tutorial16_shadowmaps_simple in life (explicit)
+tutorial03_matrices in life (explicit)
+tutorial15_lightmaps in life (explicit)
+tutorial16_shadowmaps in life (explicit)
+tutorial14_render_to_texture in life (explicit)
+tutorial09_AssImp in life (explicit)
+tutorial12_extensions in life (explicit)
+tutorial17_rotations in life (explicit)
+clipboard in life (explicit)
+docs in life (explicit)
+zlib in life (explicit)
+assimp in life (explicit)
+BulletSoftBody in life (explicit)
+BulletCollision in life (explicit)
+BulletDynamics in life (explicit)
+title in life (explicit)
+threads in life (explicit)
+tearing in life (explicit)
+empty in life (explicit)
+glfwinfo in life (explicit)
+cursor in life (explicit)
+monitors in life (explicit)
+reopen in life (explicit)
+joysticks in life (explicit)
+events in life (explicit)
+iconify in life (explicit)
+gamma in life (explicit)
+sharing in life (explicit)
+msaa in life (explicit)
+LinearMath in life (explicit)
+glfw in life (explicit)
+wave in life (explicit)
+splitview in life (explicit)
+simple in life (explicit)
+particles in life (explicit)
+heightmap in life (explicit)
+gears in life (explicit)
+boing in life (explicit)
+windows in life (explicit)
+ZERO_CHECK in life (explicit)
+install in life, depends on:
+ALL_BUILD in life (explicit)
+uninstall in life

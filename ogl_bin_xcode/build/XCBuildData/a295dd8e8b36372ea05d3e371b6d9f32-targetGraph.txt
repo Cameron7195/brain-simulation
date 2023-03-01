@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+ZERO_CHECK in brain
+GLEW_1130 in brain, depends on:
+ZERO_CHECK in brain (explicit)
+glfw in brain, depends on:
+ZERO_CHECK in brain (explicit)
+tutorial02_red_triangle in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)

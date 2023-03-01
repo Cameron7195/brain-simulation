@@ -1,0 +1,21 @@
+#version 330 core
+
+// Ouput data
+//layout(location = 0) in vec3 vertex;
+in vec4 vColor;
+out vec4 color;
+
+void main()
+{
+    vec4 backColor = vec4(0,0,0,0);
+	// Output color = red
+    color = vColor;
+    vec2 circCoord = 2.0 * gl_PointCoord - 1.0;
+    float dist = dot(circCoord, circCoord);
+    float delta = 0.8;
+    float alpha = smoothstep(1-delta, 1, dist);
+    
+    color = mix(color, backColor, alpha);
+    
+    
+}

@@ -1,0 +1,199 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		7E1432E626649EF000721D40 /* misc05_picking */ = {isa = PBXFileReference; lastKnownFileType = folder; path = misc05_picking; sourceTree = "<group>"; };
+		7E1432E726649EF000721D40 /* tutorial09_vbo_indexing */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial09_vbo_indexing; sourceTree = "<group>"; };
+		7E1432E826649EF000721D40 /* tutorial06_keyboard_and_mouse */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial06_keyboard_and_mouse; sourceTree = "<group>"; };
+		7E1432E926649EF000721D40 /* tutorial02_red_triangle */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial02_red_triangle; sourceTree = "<group>"; };
+		7E1432EA26649EF000721D40 /* tutorial14_render_to_texture */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial14_render_to_texture; sourceTree = "<group>"; };
+		7E1432EB26649EF000721D40 /* CMakeLists.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
+		7E1432EC26649EF000721D40 /* tutorial01_first_window */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial01_first_window; sourceTree = "<group>"; };
+		7E1432ED26649EF000721D40 /* playground */ = {isa = PBXFileReference; lastKnownFileType = folder; path = playground; sourceTree = "<group>"; };
+		7E1432EE26649EF000721D40 /* CMakeFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CMakeFiles; sourceTree = "<group>"; };
+		7E1432EF26649EF000721D40 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		7E1432F026649EF000721D40 /* .hgignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .hgignore; sourceTree = "<group>"; };
+		7E1432F126649EF000721D40 /* tutorial04_colored_cube */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial04_colored_cube; sourceTree = "<group>"; };
+		7E1432F226649EF000721D40 /* tutorial16_shadowmaps */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial16_shadowmaps; sourceTree = "<group>"; };
+		7E1432F326649EF000721D40 /* tutorial18_billboards_and_particles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial18_billboards_and_particles; sourceTree = "<group>"; };
+		7E1432F426649EF000721D40 /* tutorial10_transparency */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial10_transparency; sourceTree = "<group>"; };
+		7E1432F526649EF000721D40 /* tutorial08_basic_shading */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial08_basic_shading; sourceTree = "<group>"; };
+		7E1432F626649EF000721D40 /* distrib */ = {isa = PBXFileReference; lastKnownFileType = folder; path = distrib; sourceTree = "<group>"; };
+		7E1432F726649EF000721D40 /* tutorial15_lightmaps */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial15_lightmaps; sourceTree = "<group>"; };
+		7E1432F826649EF000721D40 /* common */ = {isa = PBXFileReference; lastKnownFileType = folder; path = common; sourceTree = "<group>"; };
+		7E1432F926649EF000721D40 /* misc04_building_your_own_app */ = {isa = PBXFileReference; lastKnownFileType = folder; path = misc04_building_your_own_app; sourceTree = "<group>"; };
+		7E1432FA26649EF000721D40 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		7E1432FB26649EF000721D40 /* tutorial05_textured_cube */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial05_textured_cube; sourceTree = "<group>"; };
+		7E1432FC26649EF000721D40 /* tutorial07_model_loading */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial07_model_loading; sourceTree = "<group>"; };
+		7E1432FD26649EF000721D40 /* tutorial12_extensions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial12_extensions; sourceTree = "<group>"; };
+		7E1432FE26649EF000721D40 /* BUILDING.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = BUILDING.txt; sourceTree = "<group>"; };
+		7E1432FF26649EF000721D40 /* CMakeCache.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeCache.txt; sourceTree = "<group>"; };
+		7E14330026649EF000721D40 /* external */ = {isa = PBXFileReference; lastKnownFileType = folder; path = external; sourceTree = "<group>"; };
+		7E14330126649EF000721D40 /* misc01_math_cheatsheet */ = {isa = PBXFileReference; lastKnownFileType = folder; path = misc01_math_cheatsheet; sourceTree = "<group>"; };
+		7E14330226649EF000721D40 /* tutorial03_matrices */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial03_matrices; sourceTree = "<group>"; };
+		7E14330326649EF000721D40 /* tutorial11_2d_fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial11_2d_fonts; sourceTree = "<group>"; };
+		7E14330426649EF000721D40 /* tutorial17_rotations */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial17_rotations; sourceTree = "<group>"; };
+		7E14330526649EF000721D40 /* tutorial13_normal_mapping */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tutorial13_normal_mapping; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		7E1432E026649EF000721D40 = {
+			isa = PBXGroup;
+			children = (
+				7E1432E626649EF000721D40 /* misc05_picking */,
+				7E1432E726649EF000721D40 /* tutorial09_vbo_indexing */,
+				7E1432E826649EF000721D40 /* tutorial06_keyboard_and_mouse */,
+				7E1432E926649EF000721D40 /* tutorial02_red_triangle */,
+				7E1432EA26649EF000721D40 /* tutorial14_render_to_texture */,
+				7E1432EB26649EF000721D40 /* CMakeLists.txt */,
+				7E1432EC26649EF000721D40 /* tutorial01_first_window */,
+				7E1432ED26649EF000721D40 /* playground */,
+				7E1432EE26649EF000721D40 /* CMakeFiles */,
+				7E1432EF26649EF000721D40 /* Makefile */,
+				7E1432F026649EF000721D40 /* .hgignore */,
+				7E1432F126649EF000721D40 /* tutorial04_colored_cube */,
+				7E1432F226649EF000721D40 /* tutorial16_shadowmaps */,
+				7E1432F326649EF000721D40 /* tutorial18_billboards_and_particles */,
+				7E1432F426649EF000721D40 /* tutorial10_transparency */,
+				7E1432F526649EF000721D40 /* tutorial08_basic_shading */,
+				7E1432F626649EF000721D40 /* distrib */,
+				7E1432F726649EF000721D40 /* tutorial15_lightmaps */,
+				7E1432F826649EF000721D40 /* common */,
+				7E1432F926649EF000721D40 /* misc04_building_your_own_app */,
+				7E1432FA26649EF000721D40 /* .gitignore */,
+				7E1432FB26649EF000721D40 /* tutorial05_textured_cube */,
+				7E1432FC26649EF000721D40 /* tutorial07_model_loading */,
+				7E1432FD26649EF000721D40 /* tutorial12_extensions */,
+				7E1432FE26649EF000721D40 /* BUILDING.txt */,
+				7E1432FF26649EF000721D40 /* CMakeCache.txt */,
+				7E14330026649EF000721D40 /* external */,
+				7E14330126649EF000721D40 /* misc01_math_cheatsheet */,
+				7E14330226649EF000721D40 /* tutorial03_matrices */,
+				7E14330326649EF000721D40 /* tutorial11_2d_fonts */,
+				7E14330426649EF000721D40 /* tutorial17_rotations */,
+				7E14330526649EF000721D40 /* tutorial13_normal_mapping */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		7E1432E526649EF000721D40 /* ogl-master */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 7E14330626649EF000721D40 /* Build configuration list for PBXLegacyTarget "ogl-master" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/Cameron/Projects/ogl-master";
+			dependencies = (
+			);
+			name = "ogl-master";
+			passBuildSettingsInEnvironment = 1;
+			productName = "ogl-master";
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		7E1432E126649EF000721D40 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = 7E1432E426649EF000721D40 /* Build configuration list for PBXProject "ogl-master" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7E1432E026649EF000721D40;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7E1432E526649EF000721D40 /* ogl-master */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		7E1432E226649EF000721D40 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		7E1432E326649EF000721D40 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		7E14330726649EF000721D40 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "ogl-master";
+			};
+			name = Debug;
+		};
+		7E14330826649EF000721D40 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "ogl-master";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7E1432E426649EF000721D40 /* Build configuration list for PBXProject "ogl-master" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E1432E226649EF000721D40 /* Debug */,
+				7E1432E326649EF000721D40 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7E14330626649EF000721D40 /* Build configuration list for PBXLegacyTarget "ogl-master" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E14330726649EF000721D40 /* Debug */,
+				7E14330826649EF000721D40 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7E1432E126649EF000721D40 /* Project object */;
+}

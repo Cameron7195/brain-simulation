@@ -1,0 +1,17 @@
+#version 330 core
+
+
+
+// Ouput data
+in vec4 vColor;
+out vec4 color;
+
+
+void main()
+{
+    vec4 backColor = vec4(0,0,0,0);
+	// Output color = red
+    color = vColor;
+    
+    vec2 circCoord = 2.0 * gl_PointCoord - 1.0;
+}

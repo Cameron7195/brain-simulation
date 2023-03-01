@@ -1,0 +1,269 @@
+Target dependency graph (63 targets)
+ZERO_CHECK in brain
+GLEW_1130 in brain, depends on:
+ZERO_CHECK in brain (explicit)
+glfw in brain, depends on:
+ZERO_CHECK in brain (explicit)
+tutorial08_basic_shading in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+ANTTWEAKBAR_116_OGLCORE_GLFW in brain, depends on:
+ZERO_CHECK in brain (explicit)
+BulletCollision in brain, depends on:
+ZERO_CHECK in brain (explicit)
+BulletDynamics in brain, depends on:
+ZERO_CHECK in brain (explicit)
+LinearMath in brain, depends on:
+ZERO_CHECK in brain (explicit)
+misc05_picking_BulletPhysics in brain, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in brain (explicit)
+GLEW_1130 in brain (explicit)
+BulletCollision in brain (explicit)
+BulletDynamics in brain (explicit)
+LinearMath in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial10_transparency in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial18_particles in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial18_billboards in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial01_first_window in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial02_red_triangle in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+misc05_picking_slow_easy in brain, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in brain (explicit)
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial09_vbo_indexing in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial09_several_objects in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial13_normal_mapping in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial11_2d_fonts in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial04_colored_cube in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial05_textured_cube in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial07_model_loading in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+playground in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial06_keyboard_and_mouse in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+misc05_picking_custom in brain, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in brain (explicit)
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial16_shadowmaps_simple in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial03_matrices in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial15_lightmaps in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial16_shadowmaps in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial14_render_to_texture in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+zlib in brain, depends on:
+ZERO_CHECK in brain (explicit)
+assimp in brain, depends on:
+zlib in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial09_AssImp in brain, depends on:
+GLEW_1130 in brain (explicit)
+zlib in brain (explicit)
+assimp in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial12_extensions in brain, depends on:
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tutorial17_rotations in brain, depends on:
+ANTTWEAKBAR_116_OGLCORE_GLFW in brain (explicit)
+GLEW_1130 in brain (explicit)
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+clipboard in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+docs in brain, depends on:
+ZERO_CHECK in brain (explicit)
+BulletSoftBody in brain, depends on:
+ZERO_CHECK in brain (explicit)
+title in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+threads in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+tearing in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+empty in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+glfwinfo in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+cursor in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+monitors in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+reopen in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+joysticks in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+events in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+iconify in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+gamma in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+sharing in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+msaa in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+wave in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+splitview in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+simple in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+particles in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+heightmap in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+gears in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+boing in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+windows in brain, depends on:
+glfw in brain (explicit)
+ZERO_CHECK in brain (explicit)
+ALL_BUILD in brain, depends on:
+tutorial08_basic_shading in brain (explicit)
+misc05_picking_BulletPhysics in brain (explicit)
+tutorial10_transparency in brain (explicit)
+ANTTWEAKBAR_116_OGLCORE_GLFW in brain (explicit)
+GLEW_1130 in brain (explicit)
+tutorial18_particles in brain (explicit)
+tutorial18_billboards in brain (explicit)
+tutorial01_first_window in brain (explicit)
+tutorial02_red_triangle in brain (explicit)
+misc05_picking_slow_easy in brain (explicit)
+tutorial09_vbo_indexing in brain (explicit)
+tutorial09_several_objects in brain (explicit)
+tutorial13_normal_mapping in brain (explicit)
+tutorial11_2d_fonts in brain (explicit)
+tutorial04_colored_cube in brain (explicit)
+tutorial05_textured_cube in brain (explicit)
+tutorial07_model_loading in brain (explicit)
+playground in brain (explicit)
+tutorial06_keyboard_and_mouse in brain (explicit)
+misc05_picking_custom in brain (explicit)
+tutorial16_shadowmaps_simple in brain (explicit)
+tutorial03_matrices in brain (explicit)
+tutorial15_lightmaps in brain (explicit)
+tutorial16_shadowmaps in brain (explicit)
+tutorial14_render_to_texture in brain (explicit)
+tutorial09_AssImp in brain (explicit)
+tutorial12_extensions in brain (explicit)
+tutorial17_rotations in brain (explicit)
+clipboard in brain (explicit)
+docs in brain (explicit)
+zlib in brain (explicit)
+assimp in brain (explicit)
+BulletSoftBody in brain (explicit)
+BulletCollision in brain (explicit)
+BulletDynamics in brain (explicit)
+title in brain (explicit)
+threads in brain (explicit)
+tearing in brain (explicit)
+empty in brain (explicit)
+glfwinfo in brain (explicit)
+cursor in brain (explicit)
+monitors in brain (explicit)
+reopen in brain (explicit)
+joysticks in brain (explicit)
+events in brain (explicit)
+iconify in brain (explicit)
+gamma in brain (explicit)
+sharing in brain (explicit)
+msaa in brain (explicit)
+LinearMath in brain (explicit)
+glfw in brain (explicit)
+wave in brain (explicit)
+splitview in brain (explicit)
+simple in brain (explicit)
+particles in brain (explicit)
+heightmap in brain (explicit)
+gears in brain (explicit)
+boing in brain (explicit)
+windows in brain (explicit)
+ZERO_CHECK in brain (explicit)
+install in brain, depends on:
+ALL_BUILD in brain (explicit)
+uninstall in brain

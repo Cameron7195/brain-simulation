@@ -1,0 +1,136 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5dde9ac14a07f7f9856a625994d49bde0d"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5dc00a726ee5ad40b6009dd466103a5fee"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d327ba730fd6adff8c84881b58bb3d10c"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d5c216271f66fd5c5d9193e54abbf023b"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5dd097db989163bb5b03c4d1e0a9153865"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d1cc74e8078420f2e50bb4f399edddf79"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5db1e77cd0ae901e95d08f0c9d2d3da2d3"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d1e1e990e7ae12b04c7b047abf6059467"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5ddcfac1e3afbf43d57bad4d6725e25fa2"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d45dd4a6c7000e43c3f113b2d24db388e"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d7ebb15a96254b53f9be74c067da4aa93"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d3f20b28f4e7fcf4e743116d80b646744"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5db5af23e400698b5f6a5c8ed17b550039"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5df18f6d63e98a9dd781d9eff928725399"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5dd3ba3cac0c407709913e1cf4a3ca5874"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5db6f22c44cc34b48d7c3a4ae3269a3d56"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d024983a0229f8ea08b67d5d873a74511"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d51fe843c40dfe04b42148ede86174cee"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d66ec5d5b1965efb874522f84aa4ff247"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d59a3632b7a93992eb712e9cd011aa4c5"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d4db89f8dd4f13fdb59ce7f945861a6db"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d1018dcccfa71504f90eb02bd547d81ab"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5ddf576d151879aba011d61abd49278001"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5de4e89c3a96a02737a7abb7e32081e9b2"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d6452bd1ee9af9f596c2793cc6f366b96"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5dff37fa1750360ed2015348ca3cf9270f"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d3db4dc261a16298a452379eebc4e2d1f"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d1f49bf3289df2f90dc003aec35fe3934"
+    },
+    {
+      "guid" : "f962b46ce04fd1f5c2c630e664f5ff5d691724dd24879fa76b6679c8a097754b"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/Cameron/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Cameron/Library/Developer/Xcode/DerivedData/GLFW-hgiavpkhjzoczdfrbwxhibduqrfx/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Cameron/Library/Developer/Xcode/DerivedData/GLFW-hgiavpkhjzoczdfrbwxhibduqrfx/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

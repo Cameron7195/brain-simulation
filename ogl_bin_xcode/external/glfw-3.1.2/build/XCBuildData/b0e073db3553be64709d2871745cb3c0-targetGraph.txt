@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+glfw in GLFW
+monitors in GLFW, depends on:
+glfw in GLFW (explicit)
